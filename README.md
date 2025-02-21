@@ -26,8 +26,7 @@ Um sistema para sortear amigos secretos. Adicione os nomes dos participantes e f
 
 Como Rodar o Projeto 
 
-1. Baixe os arquivos do projeto.
-2. Link: (https://amigo-secreto-ws9c-m7v8ahe13-izblimas-projects.vercel.app/).
+1. Link: (https://amigo-secreto-ws9c-m7v8ahe13-izblimas-projects.vercel.app/).
 
 ---
 
