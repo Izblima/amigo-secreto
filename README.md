@@ -33,4 +33,4 @@ Como Rodar o Projeto
 
 Contato: Izabel Barbosa Lima
 
-Se tiver dúvidas ou quiser conversar, me chame no LinkedIn: (https://www.linkedin.com/in/izabel-lima-barbosa/).
+Se quiser conversar, me chame no LinkedIn: (https://www.linkedin.com/in/izabel-lima-barbosa/).
