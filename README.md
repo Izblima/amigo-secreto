@@ -1,7 +1,6 @@
  Amigo Secreto 
 
 Um sistema para sortear amigos secretos. Adicione os nomes dos participantes e faça o sorteio!
-link: amigo-secreto-ws9c-kc5ell7gn-izblimas-projects.vercel.app
 
 ---
 
@@ -28,7 +27,7 @@ link: amigo-secreto-ws9c-kc5ell7gn-izblimas-projects.vercel.app
 Como Rodar o Projeto 
 
 1. Baixe os arquivos do projeto.
-2. Abra o arquivo `index.html` no seu navegador.
+2. Link: amigo-secreto-ws9c-m7v8ahe13-izblimas-projects.vercel.app
 
 ---
 
