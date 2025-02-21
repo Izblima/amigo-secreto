@@ -1,6 +1,6 @@
  Amigo Secreto 
 
-Um sistema simples para sortear amigos secretos. Adicione os nomes dos participantes e faça o sorteio!
+Um sistema para sortear amigos secretos. Adicione os nomes dos participantes e faça o sorteio!
 
 ---
 
